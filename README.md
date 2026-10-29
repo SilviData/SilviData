@@ -59,8 +59,8 @@ No uso una herramienta para presumir que la sé usar: la elijo según lo que el 
 ### 📬Hablemos
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-2B63E6?style=for-the-badge)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2B63E6?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Tableau Public](https://img.shields.io/badge/Tableau_Public-1E8F4C?style=for-the-badge)](#)
-[![Behance](https://img.shields.io/badge/Behance-1A2233?style=for-the-badge&logo=behance&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2B63E6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/103997061/admin/edit/?editPageActiveTab=info)
+[![Tableau Public](https://img.shields.io/badge/Tableau_Public-1E8F4C?style=for-the-badge)](https://public.tableau.com/app/profile/silvana.guardia/vizzes)
+[![Behance](https://img.shields.io/badge/Behance-1A2233?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/silvanaguardia)
 
 <sub>Llegas por la curiosidad, te quedas por la historia. · © 2026 Silvana Guardia</sub>
