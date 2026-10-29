@@ -19,7 +19,7 @@ Empiezo con una pregunta (a veces seria, a veces un chisme de internet), busco l
 ---
 
 
-### 🧰 FIG. 02 — Herramientas
+### 🧰Herramientas
 
 **Datos y BI**
 
@@ -46,7 +46,7 @@ Empiezo con una pregunta (a veces seria, a veces un chisme de internet), busco l
 
 ---
 
-### 🗒️ FIG. 03 — Cómo trabajo
+### 🗒️Cómo trabajo
 
 ```
 pregunta → fuentes → datos → limpieza → análisis → algo construido → historia
@@ -56,7 +56,7 @@ No uso una herramienta para presumir que la sé usar: la elijo según lo que el 
 
 ---
 
-### 📬 FIG. 04 — Hablemos
+### 📬Hablemos
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-2B63E6?style=for-the-badge)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2B63E6?style=for-the-badge&logo=linkedin&logoColor=white)](#)
