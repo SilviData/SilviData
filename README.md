@@ -1,24 +1,76 @@
-### Hello, I'm Silvana. 👋
+<img src="assets/banner.svg" alt="Silvana Guardia · Business Intelligence · Lima, Perú" width="100%">
 
-# 💫 About Me:
-<br>Passionate about transforming data into actionable information to drive strategic decision making. Knowledge of tools such as SQL, Python and Tableau.
-<br>Experienced in creating interactive dashboards and predictive models to optimize business processes. 
+<img src="assets/gato-laptop.png" alt="Gato de SilviData trabajando en su laptop" width="150" align="right">
 
+### Hola, soy Silvi 👋
 
-## 🌐 Socials:
-<a href="https://www.linkedin.com/company/103997061/admin/feed/posts/?feedtype=following" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/103997061/admin/feed/posts/?feedtype=following" height="30" width="40" /></a>
-<a href="https://www.instagram.com/silvidata/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/silvidata/" height="30" width="40" /></a>
-<a href="https://www.behance.net/silvanaguardia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/silvanaguardia" height="30" width="40" /></a>
+Analista de **Business Intelligence** en Lima, Perú.
+Empiezo con una pregunta (a veces seria, a veces un chisme de internet), busco la data y termino construyendo algo con ella: un dashboard, una web o una base de datos.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+> Creo que un buen dashboard vale más que mil reuniones.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SilvanaGuardia&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SilvanaGuardia&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SilvanaGuardia&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🔭 Ahora mismo estoy rediseñando mi portafolio
+- 🌱 Estoy aprendiendo Desarrollo de Sistemas de Información
+- 🕒 Mi hora favorita para investigar: las 3 a.m.
+- 💼 **Open to work**: análisis de datos, BI y proyectos freelance
+
+<br clear="right">
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SilvanaGuardia&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📌 FIG. 01 — Proyectos
+
+| Proyecto | Qué es | Hecho con |
+|---|---|---|
+| [**La historia del vaquero**](https://silvanaguardia.github.io/La-historia-del-Vaquero/) | ¿Los vaqueros son solo de EE.UU.? Investigué y reuní 24 tipos de jinetes en una web interactiva | HTML · CSS · JS · Excel |
+| [**SilviData · Portafolio**](#) | Mi portafolio con estética de cuaderno blueprint | HTML · CSS · JS |
+| [**Bitácora de Expedición**](#) | Dashboard en Tableau con selector Hombre / Mujer | Tableau |
+| [**[Nombre del proyecto]**](#) | [Una línea sobre qué es] | [Herramientas] |
+
+---
+
+### 🧰 FIG. 02 — Herramientas
+
+**Datos y BI**
+
+![Power BI](https://img.shields.io/badge/Power_BI-2B63E6?style=flat-square&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-2B63E6?style=flat-square&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-2B63E6?style=flat-square&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-1E8F4C?style=flat-square&logoColor=white)
+
+**Bases de datos y código**
+
+![SQL](https://img.shields.io/badge/SQL-1E8F4C?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E8F4C?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-1E8F4C?style=flat-square)
+![Python](https://img.shields.io/badge/Python-1A2233?style=flat-square)
+![R](https://img.shields.io/badge/R-1A2233?style=flat-square)
+
+**Apps y web**
+
+![AppSheet](https://img.shields.io/badge/AppSheet-1A2233?style=flat-square)
+![PowerApps](https://img.shields.io/badge/PowerApps-1A2233?style=flat-square)
+![HTML](https://img.shields.io/badge/HTML-2B63E6?style=flat-square)
+![CSS](https://img.shields.io/badge/CSS-2B63E6?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-2B63E6?style=flat-square)
+
+---
+
+### 🗒️ FIG. 03 — Cómo trabajo
+
+```
+pregunta → fuentes → datos → limpieza → análisis → algo construido → historia
+```
+
+No uso una herramienta para presumir que la sé usar: la elijo según lo que el proyecto necesita.
+
+---
+
+### 📬 FIG. 04 — Hablemos
+
+[![Portafolio](https://img.shields.io/badge/Portafolio-2B63E6?style=for-the-badge)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2B63E6?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Tableau Public](https://img.shields.io/badge/Tableau_Public-1E8F4C?style=for-the-badge)](#)
+[![Behance](https://img.shields.io/badge/Behance-1A2233?style=for-the-badge&logo=behance&logoColor=white)](#)
+
+<sub>Llegas por la curiosidad, te quedas por la historia. · © 2026 Silvana Guardia</sub>
