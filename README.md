@@ -18,16 +18,6 @@ Empiezo con una pregunta (a veces seria, a veces un chisme de internet), busco l
 
 ---
 
-### 📌 FIG. 01 — Proyectos
-
-| Proyecto | Qué es | Hecho con |
-|---|---|---|
-| [**La historia del vaquero**](https://silvanaguardia.github.io/La-historia-del-Vaquero/) | ¿Los vaqueros son solo de EE.UU.? Investigué y reuní 24 tipos de jinetes en una web interactiva | HTML · CSS · JS · Excel |
-| [**SilviData · Portafolio**](#) | Mi portafolio con estética de cuaderno blueprint | HTML · CSS · JS |
-| [**Bitácora de Expedición**](#) | Dashboard en Tableau con selector Hombre / Mujer | Tableau |
-| [**[Nombre del proyecto]**](#) | [Una línea sobre qué es] | [Herramientas] |
-
----
 
 ### 🧰 FIG. 02 — Herramientas
 
